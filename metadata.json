@@ -1,0 +1,5 @@
+{
+  "name": "Genel Yetenek Son PC versiyon",
+  "description": "A visual logic puzzle platform for Turkish aptitude exams (ALES, DGS, KPSS) featuring dynamic procedural question generation and AI-powered explanations.",
+  "requestFramePermissions": []
+}
